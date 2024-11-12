@@ -172,8 +172,10 @@ switch (month) {
 }
 
 //Oppg. 11, vêrmeldingen for november
-const array = ["sol", "vind", "regn", "snø"];
+const array = ["sol", "vind", "regn", "snøv"];
 
 const newArray = array.slice(1, array.length - 1);
 
 console.log("Dei neste dagene blir det:", newArray, "Uff då.");
+
+//Ferdig yippie
